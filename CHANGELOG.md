@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Funcion inicial que verifica authenticacion de manera falsa.
